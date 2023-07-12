@@ -22,3 +22,4 @@ def productView(request):
 def checkout(request):
     return render(request, 'shop/index.html')
 
+# Need to add logic to this views
